@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="D:\BalinsaSAC2017\bin\Debug\BalinsaSAC.exe">
+   <Modules>
+    <Module Name="balinsasac.exe">
+     <Namespaces>
+      <Namespace Name="BalinsaSAC">
+       <Types>
+        <Type Name="clsArchivosINI" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#FlushPrivateProfileString(System.Int32,System.Int32,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'clsArchivosINI.FlushPrivateProfileString(Integer, Integer, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPrivateProfileInt(System.String&amp;,System.String&amp;,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'clsArchivosINI.GetPrivateProfileInt(ByRef String, ByRef String, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPrivateProfileString(System.String&amp;,System.String&amp;,System.String&amp;,System.Text.StringBuilder,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'clsArchivosINI.GetPrivateProfileString(ByRef String, ByRef String, ByRef String, StringBuilder, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+            <Message Id="3" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="NonBreaking">
+             <Issue Name="ParameterImplicitAnsi" Certainty="75" Level="Error">Para reducir el riesgo de la seguridad, calcule las referencias del parámetro 'lpReturnedString' como Unicode, estableciendo DllImport.CharSet en CharSet.Unicode, o bien calculando las referencias del parámetro de forma explícita como UnmanagedType.LPWStr. Si necesita calcular las referencias de esta cadena como ANSI o dependiente del sistema, especifique MarshalAs de forma explícita y establezca BestFitMapping=false. Para mayor seguridad, establezca también ThrowOnUnmappableChar=true.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#WritePrivateProfileString(System.String&amp;,System.String&amp;,System.String&amp;,System.String&amp;)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'clsArchivosINI.WritePrivateProfileString(ByRef String, ByRef String, ByRef String, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="clsFunciones" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Ejecutar(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="clsFunciones.vb" Line="183">La cadena de consulta pasada a 'SqlCommand.CommandText.Set(String)' en 'clsFunciones.Ejecutar(String)' podría contener las siguientes variables: 'sqlProceso'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Generar_Codigo(System.String,System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="clsFunciones.vb" Line="130">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'clsFunciones.Generar_Codigo(String, String, String)' podría contener las siguientes variables: 'sql'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GenerarCodigo(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="clsFunciones.vb" Line="629">La cadena de consulta pasada a 'SqlCommand.New(String, SqlConnection)' en 'clsFunciones.GenerarCodigo(String, String)' podría contener las siguientes variables: 'Nombre_ProcAlmacenado'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#getnumeroRegs(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="clsFunciones.vb" Line="95">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'clsFunciones.getnumeroRegs(String)' podría contener las siguientes variables: 'sql'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#verificarRegistro(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="clsFunciones.vb" Line="156">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'clsFunciones.verificarRegistro(String)' podría contener las siguientes variables: 'sqlVerificar'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="clsMenus" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#validarPermisos(System.Windows.Forms.ToolStripItemCollection,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="clsMenus.vb" Line="66">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'clsMenus.validarPermisos(ToolStripItemCollection, String)' podría contener las siguientes variables: 'modConexion.USU_COD_NIVEL'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="clsPDF" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#descargarArchivo(System.Windows.Forms.DataGridView,System.Int32)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="clsPDF.vb" Line="93">La cadena de consulta pasada a 'SqlCommand.New(String, SqlConnection)' en 'clsPDF.descargarArchivo(DataGridView, Integer)' podría contener las siguientes variables: '"SELECT * FROM tb_calibraciones WHERE CAL_Codigo='" &amp; Grida(0, fila).Value &amp; "'"'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmAcceso" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cmdAccesar_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Usuarios" File="FrmAcceso.vb" Line="28">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmAcceso.cmdAccesar_Click(Object, EventArgs)' podría contener las siguientes variables: 'Me.sqlLogin'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmBuscarNota" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dgvNotas_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Usuarios" File="FrmBuscarNota.vb" Line="42">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmBuscarNota.dgvNotas_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvNotas(0, fila).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmCalibraciones" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dgvModelos_CellEnter(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\ServTecnico" File="FrmCalibraciones.vb" Line="284">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCalibraciones.dgvModelos_CellEnter(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.SQLCalibraciones'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#dgvModelos_CellMouseDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellMouseEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\ServTecnico" File="FrmCalibraciones.vb" Line="308">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCalibraciones.dgvModelos_CellMouseDoubleClick(Object, DataGridViewCellMouseEventArgs)' podría contener las siguientes variables: 'Me.SQLCalibraciones'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#dgvModelos_CellMouseEnter(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\ServTecnico" File="FrmCalibraciones.vb" Line="335">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCalibraciones.dgvModelos_CellMouseEnter(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.SQLCalibraciones'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#FrmCalibraciones_Load(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\ServTecnico" File="FrmCalibraciones.vb" Line="43">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCalibraciones.FrmCalibraciones_Load(Object, EventArgs)' podría contener las siguientes variables: 'Me.sqlBuscaBalanza'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmCamaras" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#llenarCategorias(System.Windows.Forms.ComboBox,System.String,System.String,System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Productos" File="FrmCamaras.vb" Line="11">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCamaras.llenarCategorias(ComboBox, String, String, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmCambiarContrasena" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#FrmCambiarContrasena_Activated(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Usuarios" File="FrmCambiarContrasena.vb" Line="17">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCambiarContrasena.FrmCambiarContrasena_Activated(Object, EventArgs)' podría contener las siguientes variables: 'Me.sqlUsuario'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmCarteraClientes" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cmdSeleccionar_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Clientes" File="FrmCarteraClientes.vb" Line="176">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCarteraClientes.cmdSeleccionar_Click(Object, EventArgs)' podría contener las siguientes variables: 'Me.dgvClientes(0, fila).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#dgvClientes_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Clientes" File="FrmCarteraClientes.vb" Line="67">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCarteraClientes.dgvClientes_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvClientes(0, fila).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmCatalogoProductos" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cmdModificar_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Productos" File="FrmCatalogoProductos.vb" Line="108">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmCatalogoProductos.cmdModificar_Click(Object, EventArgs)' podría contener las siguientes variables: 'modProcedimientos.GridaProductos(Index)(0, fila).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmEstadisticas" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cboAnio_SelectionChangeCommitted(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Facturacion" File="FrmEstadisticas.vb" Line="66">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmEstadisticas.cboAnio_SelectionChangeCommitted(Object, EventArgs)' podría contener las siguientes variables: 'Me.sqlFiltroSoles'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmFiltraProductos" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dgvProductos_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Productos" File="FrmFiltraProductos.vb" Line="44">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmFiltraProductos.dgvProductos_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvProductos(0, fila).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmListaCotizaciones" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cmdModificarCot_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Cotizaciones" File="FrmListaCotizaciones.vb" Line="145">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmListaCotizaciones.cmdModificarCot_Click(Object, EventArgs)' podría contener las siguientes variables: 'Me.IDCotiz'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmListaFacturas" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dgvListarFacturas_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Facturacion" File="FrmListaFacturas.vb" Line="78">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmListaFacturas.dgvListarFacturas_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'IDFactura'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmProductos" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#FrmRegistroProductos_Load(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Productos" File="FrmProductos.vb" Line="76">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmProductos.FrmRegistroProductos_Load(Object, EventArgs)' podría contener las siguientes variables: 'IDCategoria'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmRegAsistencia" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dgvListaClientes_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\ServTecnico" File="FrmRegAsistencia.vb" Line="40">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmRegAsistencia.dgvListaClientes_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvListaClientes(0, fila_cliente).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmRegistraGasto" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cboMovimiento_SelectionChangeCommitted(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Caja" File="FrmRegistraGasto.vb" Line="72">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmRegistraGasto.cboMovimiento_SelectionChangeCommitted(Object, EventArgs)' podría contener las siguientes variables: '"SELECT MCAJ_Codigo, CAJ_Codigo, MCAJ_MontoSoles, MCAJ_MontoDolares FROM tb_movi..." &amp; Me.cboMovimiento.SelectedValue &amp; "'"'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmRegistrarRequerimiento" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dgvListaClientes_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Cotizaciones" File="FrmRegistrarRequerimiento.vb" Line="223">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmRegistrarRequerimiento.dgvListaClientes_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvListaClientes(0, fila_cliente).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmRegistroClientes" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dgvContactos_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Clientes" File="FrmRegistroClientes.vb" Line="429">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmRegistroClientes.dgvContactos_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvContactos(0, e.RowIndex).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmRegistroFactura" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cboCajas_SelectionChangeCommitted(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Facturacion" File="FrmRegistroFactura.vb" Line="730">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmRegistroFactura.cboCajas_SelectionChangeCommitted(Object, EventArgs)' podría contener las siguientes variables: 'Me.cboCajas.SelectedValue'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#dgvListaClientes_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Facturacion" File="FrmRegistroFactura.vb" Line="476">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmRegistroFactura.dgvListaClientes_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvListaClientes(0, fila_cliente).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmRegistroRecordatorios" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#dgvDetalle_CellClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Usuarios" File="FrmRegistroRecordatorios.vb" Line="102">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmRegistroRecordatorios.dgvDetalle_CellClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvDetalle(0, fila).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmValidar" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cmdValidar_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios\Caja" File="FrmValidar.vb" Line="48">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'FrmValidar.cmdValidar_Click(Object, EventArgs)' podría contener las siguientes variables: 'modProcedimientos.COD_RECIBIDOR', 'modProcedimientos.objEncriptacion.Encripta(Me.txtContrasena.Text)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="MDIPrincipal" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#cmdCotizar_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios" File="MDIPrincipal.vb" Line="1270">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'MDIPrincipal.cmdCotizar_Click(Object, EventArgs)' podría contener las siguientes variables: 'IDRequerim'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#dgvRequerimientos_CellDoubleClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios" File="MDIPrincipal.vb" Line="1023">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'MDIPrincipal.dgvRequerimientos_CellDoubleClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'Me.dgvRequerimientos(0, fila).Value'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#HabilitarSeguimiento()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios" File="MDIPrincipal.vb" Line="1091">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'MDIPrincipal.HabilitarSeguimiento()' podría contener las siguientes variables: 'Strings.Format(DateAndTime.Now, "dd/MM/yyyy")'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#tmrCambios_en_Permisos_Tick(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios" File="MDIPrincipal.vb" Line="911">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'MDIPrincipal.tmrCambios_en_Permisos_Tick(Object, EventArgs)' podría contener las siguientes variables: 'Me.sqlConfigSys'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#tmrRecordatorios_Tick(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Formularios" File="MDIPrincipal.vb" Line="332">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'MDIPrincipal.tmrRecordatorios_Tick(Object, EventArgs)' podría contener las siguientes variables: 'modConexion.USU_CODIGO', 'Strings.Format(Conversions.ToDate(Me.tsslHora.Text), "H:mm")', 'New String(7)(5)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="modProcedimientos" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#btnCaja_Click(System.Object,System.EventArgs)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="2417">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.btnCaja_Click(Object, EventArgs)' podría contener las siguientes variables: 'modProcedimientos.btns(index).Name'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="2439">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.btnCaja_Click(Object, EventArgs)' podría contener las siguientes variables: 'modProcedimientos.btns(index).Name'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="2456">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.btnCaja_Click(Object, EventArgs)' podría contener las siguientes variables: 'modProcedimientos.btns(index).Name'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#crearBotones(System.String,System.Windows.Forms.Panel,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="2029">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.crearBotones(String, Panel, Integer, Integer, Integer)' podría contener las siguientes variables: 'modConexion.dt.Rows(modProcedimientos.i)("CAJ_Codigo")'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="2047">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.crearBotones(String, Panel, Integer, Integer, Integer)' podría contener las siguientes variables: 'modConexion.dt.Rows(modProcedimientos.i)("CAJ_Codigo")'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1959">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.crearBotones(String, Panel, Integer, Integer, Integer)' podría contener las siguientes variables: 'sqlListar'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#filtrar_Clientes(System.Windows.Forms.DataGridView,System.Int32,System.Windows.Forms.Label,System.String,System.Boolean,System.Boolean)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1276">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.filtrar_Clientes(DataGridView, Integer, Label, String, Boolean, Boolean)' podría contener las siguientes variables: 'New String(7)(1)', 'Filtro', 'New String(7)(1)', 'New String(7)(1)', 'New String(7)(1)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#filtrar_Clientes_Impresion(System.Windows.Forms.DataGridView,System.Int32,System.Windows.Forms.Label,System.String,System.Boolean,System.Boolean)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1373">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.filtrar_Clientes_Impresion(DataGridView, Integer, Label, String, Boolean, Boolean)' podría contener las siguientes variables: 'New String(7)(1)', 'Filtro', 'New String(7)(1)', 'New String(7)(1)', 'New String(7)(1)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#filtrarFacturas(System.String,System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1659">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.filtrarFacturas(String, DataGridView, String)' podría contener las siguientes variables: 'IDCliente'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#filtrarProductos(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="717">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.filtrarProductos(DataGridView, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GRIDA_DblClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3380">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.GRIDA_DblClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'NewLateBinding.LateGet(NewLateBinding.LateGet(sender, Nothing, "Item", New Object(2), Nothing, Nothing, New Boolean(2)), Nothing, "Value", New Object(0), Nothing, Nothing, Nothing)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3463">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.GRIDA_DblClick(Object, DataGridViewCellEventArgs)' podría contener las siguientes variables: 'NewLateBinding.LateGet(NewLateBinding.LateGet(sender, Nothing, "Item", New Object(2), Nothing, Nothing, New Boolean(2)), Nothing, "Value", New Object(0), Nothing, Nothing, Nothing)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#habilitarPermisos(System.Windows.Forms.ToolStrip)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3032">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.habilitarPermisos(ToolStrip)' podría contener las siguientes variables: 'modConexion.USU_COD_NIVEL'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Imprimir_filtroClientes(System.Windows.Forms.DataGridView,System.Int32,System.Windows.Forms.Label,System.String,System.Boolean,System.Boolean)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3599">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.Imprimir_filtroClientes(DataGridView, Integer, Label, String, Boolean, Boolean)' podría contener las siguientes variables: 'Filtro'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listar_Detalle_Cotizacion(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="304">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listar_Detalle_Cotizacion(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listar_DetalleAsistencias(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3758">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listar_DetalleAsistencias(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Listar_Tipos(System.Int32,System.Windows.Forms.ComboBox)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3813">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.Listar_Tipos(Integer, ComboBox)' podría contener las siguientes variables: 'Conversions.ToString(tipo)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarAsistenciasTecnicas(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3689">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarAsistenciasTecnicas(DataGridView, String)' podría contener las siguientes variables: 'Tipo'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3718">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarAsistenciasTecnicas(DataGridView, String)' podría contener las siguientes variables: 'modConexion.dt.Rows((nA - 1))("AST_Codigo")'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarCalibraciones(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="687">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarCalibraciones(DataGridView, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarClientesFactura(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1138">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarClientesFactura(DataGridView, String)' podría contener las siguientes variables: 'Parametro'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarConceptos(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1476">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarConceptos(DataGridView, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarContact_x_Cliente(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="755">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarContact_x_Cliente(DataGridView, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarCotizaciones(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="264">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarCotizaciones(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarDetalleFactura(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1767">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarDetalleFactura(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarFacturas(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1527">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarFacturas(DataGridView, String)' podría contener las siguientes variables: 'Anio', 'Conversions.ToString(modProcedimientos.Mes)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarGastos_x_Mov(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="584">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarGastos_x_Mov(DataGridView, String)' podría contener las siguientes variables: 'IDMov'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarMarcas(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1416">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarMarcas(DataGridView, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarModelos(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1446">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarModelos(DataGridView, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarMovimCaja(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1808">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarMovimCaja(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarNotas_x_Usu(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="409">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarNotas_x_Usu(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarPermisos(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="536">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarPermisos(DataGridView, String)' podría contener las siguientes variables: 'IDNivel', 'New String(5)(3)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarProductos(System.Windows.Forms.DataGridView,System.String,System.Boolean)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="619">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarProductos(DataGridView, String, Boolean)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarRecordatorios_x_Usu(System.Windows.Forms.DataGridView,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="450">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarRecordatorios_x_Usu(DataGridView, String)' podría contener las siguientes variables: 'IDUsuario', 'New String(5)(3)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarRequerimientos(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="185">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarRequerimientos(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarTodasCotizaciones(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="334">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarTodasCotizaciones(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#listarUsuarios(System.String,System.Windows.Forms.DataGridView)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="790">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.listarUsuarios(String, DataGridView)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarCajas(System.Windows.Forms.ComboBox,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1107">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.llenarCajas(ComboBox, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarCajasActivas(System.Windows.Forms.ComboBox,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="894">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.llenarCajasActivas(ComboBox, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarCategorias(System.Windows.Forms.ComboBox,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="870">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.llenarCategorias(ComboBox, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarDetalleGasto(System.Windows.Forms.ComboBox)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="1019">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.llenarDetalleGasto(ComboBox)' podría contener las siguientes variables: 'modConexion.USU_CODIGO', 'New String(5)(3)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarGrida(System.Windows.Forms.DataGridView,System.Int32,System.String,System.DateTime,System.DateTime,System.Int32)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="3208">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.llenarGrida(DataGridView, Integer, String, Date, Date, Integer)' podría contener las siguientes variables: 'SQL'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarMarcas_x_Categoria(System.Windows.Forms.ComboBox,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="2979">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.llenarMarcas_x_Categoria(ComboBox, String)' podría contener las siguientes variables: 'Consulta'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#llenarUsuarios(System.Windows.Forms.ComboBox)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-01-09 16:24:23Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\BalinsaSAC2017\Modulos_Clases" File="modProcedimientos.vb" Line="983">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'modProcedimientos.llenarUsuarios(ComboBox)' podría contener las siguientes variables: 'Conversions.ToString(1)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060">
+   <Name>Mueva P/Invokes a la clase NativeMethods</Name>
+   <Description>Este tipo contiene miembros con el atributo DllImport. Los miembros con el atributo DllImport deben estar contenidos en clases denominadas NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Description>
+   <Resolution Name="Default">Puesto que es un método P/Invoke, se debe definir {0} en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182161(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalWarning</MessageLevel>
+   <File Name="designrules.dll" Version="11.0.0.0" />
+  </Rule>
+  <Rule TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad</Name>
+   <Description>Una cadena de comando SQL compilada a partir de datos proporcionados por el usuario es vulnerable a ataques pon inyección de código SQL. Microsoft SQL Server y otros servidores de bases de datos admiten procedimientos almacenados y consultas SQL parametrizadas, que reducen el riesgo de ataques por inyección.</Description>
+   <Resolution Name="WithNonLiterals">La cadena de consulta pasada a {0} en {1} podría contener las siguientes variables: {2}. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="11.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101">
+   <Name>Especifique cálculo de referencias para argumentos de cadena P/Invoke</Name>
+   <Description>Cuando se calculan las referencias de cadenas como ANSI (o Auto en Win9x), es posible que cambien algunos caracteres. Si está activada la asignación de ajuste perfecto, en las cadenas que aparecen diferentes en Unicode se calcularán las referencias como cadenas ANSI idénticas, lo que puede dar lugar a decisiones de seguridad incorrectas. Si se desactiva la asignación de ajuste perfecto, se reduce el riesgo, ya que a todos los caracteres sin equivalente se les asigna '?'. Asimismo, tenga en cuenta que CharSet.Ansi es el valor predeterminado para todos los cálculos de referencias de cadenas. El cálculo de referencias Unicode se debe especificar de forma explícita, ya sea con el valor CharSet de DllImport o StructLayout, o bien con el atributo MarshalAs con un tipo Unicode no administrado (o dependiente del sistema).</Description>
+   <Resolution Name="ParameterImplicitAnsi">Para reducir el riesgo de la seguridad, calcule las referencias del parámetro {0} como Unicode, estableciendo DllImport.CharSet en CharSet.Unicode, o bien calculando las referencias del parámetro de forma explícita como UnmanagedType.LPWStr. Si necesita calcular las referencias de esta cadena como ANSI o dependiente del sistema, especifique MarshalAs de forma explícita y establezca BestFitMapping=false. Para mayor seguridad, establezca también ThrowOnUnmappableChar=true.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182319(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

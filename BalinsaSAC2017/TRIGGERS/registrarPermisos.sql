@@ -1,0 +1,18 @@
+INSERT INTO tb_permisos VALUES('Registrar Niveles','Usuarios',1);
+INSERT INTO tb_permisos VALUES('Registrar Nuevo Usuario','Usuarios',1);
+INSERT INTO tb_permisos VALUES('Detallar Egresos','Usuarios',1);
+INSERT INTO tb_permisos VALUES('Cambiar Contraseña','Usuarios',1);
+INSERT INTO tb_permisos VALUES('Registrar Clientes','Clientes',1);
+INSERT INTO tb_permisos VALUES('Listar Clientes','Clientes',1);
+INSERT INTO tb_permisos VALUES('Registrar Conceptos','Caja',1);
+INSERT INTO tb_permisos VALUES('Crear / Aperturar Caja','Caja',1);
+INSERT INTO tb_permisos VALUES('Registrar Movimiento','Caja',1);
+INSERT INTO tb_permisos VALUES('Listado de Movimientos','Caja',1);
+INSERT INTO tb_permisos VALUES('Generar Nueva Factura','Facturacion',1);
+INSERT INTO tb_permisos VALUES('Anular Factura','Facturacion',1);
+INSERT INTO tb_permisos VALUES('Registrar Entrada','Almacen',1);
+INSERT INTO tb_permisos VALUES('Registrar Salida','Almacen',1);
+INSERT INTO tb_permisos VALUES('Listado de Serv. / Product.','Almacen',1);
+INSERT INTO tb_permisos VALUES('Datos de la Empresa','Configuracion',1);
+INSERT INTO tb_permisos VALUES('Porcentaje IGV','Configuracion',1);
+INSERT INTO tb_permisos VALUES('Mantenimiento de Ciudades','Configuracion',1);

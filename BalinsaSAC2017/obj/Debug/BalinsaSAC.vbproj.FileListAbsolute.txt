@@ -1,0 +1,1168 @@
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\Felipe\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+C:\Users\Felipe\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+C:\Users\Felipe\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+G:\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+G:\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+G:\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+G:\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+E:\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+E:\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+E:\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+E:\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmModelos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroProductos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas_y_Modelos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlerta.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListarMovimientos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigDatosEmpresa.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListarClientes.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\SISTEMAS\Desktop\Nueva carpeta\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+F:\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListarClientes.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+F:\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+F:\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+F:\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+F:\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+H:\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+H:\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+H:\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+H:\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListarClientes.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+H:\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+G:\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+H:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+E:\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+D:\USB\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+D:\USB\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+D:\USB\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+D:\USB\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+D:\USB\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigSistema.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigSistema.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigSistema.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNumCotizaciones.resources
+E:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+G:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNumCotizaciones.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+D:\USB\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+D:\USB\BalinsaSAC\bin\Debug\BalinsaSAC.application
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.application
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.application
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+C:\Users\SISTEMAS\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.application
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+D:\USB\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+C:\Users\fatar\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+C:\Users\fatar\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+C:\Users\fatar\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.application
+C:\Users\fatar\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+C:\Users\fatar\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+C:\Users\fatar\Desktop\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+C:\Users\fatar\Desktop\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.application
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\fatar\Desktop\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+D:\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+D:\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+D:\BalinsaSAC\bin\Debug\BalinsaSAC.application
+D:\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+D:\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+D:\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+D:\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+D:\BalinsaSAC\obj\Debug\BalinsaSAC.application
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPrint.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.application
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+C:\Users\i3\Downloads\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.application
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.application
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPrint.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+C:\Users\SISTEMAS\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.application
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPrint.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.application
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.application
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPrintReports.resources
+C:\Users\i3\Desktop\BalinsaSAC 07042016\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarPermiso.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.application
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPrint.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPrintReports.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarPermiso.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+C:\Users\i3\Desktop\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.application
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.exe.config
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.exe
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.xml
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.pdb
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPrint.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPrintReports.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarPermiso.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcercade.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalendario.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAlertas.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProforma.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmReportes.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCamaras.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCategorias.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmProductos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMarcas.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNotas.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmValidar.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmAcceso.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmIGV.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmMoneda.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmNiveles.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmPermisos.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.Resources.resources
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.exe.manifest
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.application
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.exe
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.pdb
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\bin\Debug\BalinsaSAC.xml
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\bin\Debug\Ionic.Zip.dll
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.exe.manifest
+D:\ESCRITORIO\BalinsaSAC\BalinsaSAC\obj\Debug\BalinsaSAC.application
+D:\BalinsaSAC2017\bin\Debug\BalinsaSAC.exe.config
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.exe
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.xml
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.pdb
+D:\BalinsaSAC2017\bin\Debug\BalinsaSAC.exe.manifest
+D:\BalinsaSAC2017\bin\Debug\BalinsaSAC.application
+D:\BalinsaSAC2017\bin\Debug\BalinsaSAC.exe
+D:\BalinsaSAC2017\bin\Debug\BalinsaSAC.pdb
+D:\BalinsaSAC2017\bin\Debug\BalinsaSAC.xml
+D:\BalinsaSAC2017\bin\Debug\Ionic.Zip.dll
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmPrint.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmPrintReports.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistrarPermiso.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAcercade.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCalendario.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAlertas.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmProforma.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmReportes.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCamaras.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCategorias.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmProductos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmMarcas.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmNotas.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmValidar.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAcceso.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmIGV.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmMoneda.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmNiveles.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmPermisos.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.Resources.resources
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.exe.manifest
+D:\BalinsaSAC2017\obj\Debug\BalinsaSAC.application
+G:\BalinsaSAC2017\bin\Debug\BalinsaSAC.exe.config
+G:\BalinsaSAC2017\obj\Debug\BalinsaSAC.exe
+G:\BalinsaSAC2017\obj\Debug\BalinsaSAC.xml
+G:\BalinsaSAC2017\obj\Debug\BalinsaSAC.pdb
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\bin\Debug\BalinsaSAC.exe.config
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.exe
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.xml
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.pdb
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\bin\Debug\BalinsaSAC.exe.manifest
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\bin\Debug\BalinsaSAC.application
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\bin\Debug\BalinsaSAC.exe
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\bin\Debug\BalinsaSAC.pdb
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\bin\Debug\BalinsaSAC.xml
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\bin\Debug\Ionic.Zip.dll
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmPrint.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmPrintReports.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistrarPermiso.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.Form1.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmActualizarCaja.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAperturarCaja.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmFiltroMov.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaIngresos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmTerminarMovimiento.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCarteraClientes.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroContactos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmZoomTarjeta.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAcercade.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmActualizarVersion.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCalendario.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmConfigActualizaSistema.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmConfigMantenimiento.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAlertas.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaCotizaciones.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistrarRequerimiento.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaArchivos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmEstadisticas.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaFacturas.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaProductos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmProforma.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmEnMantenimiento.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmReportes.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCamaras.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCategorias.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCatalogoProductos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmFiltraProductos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmProductos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmMarcas.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAsistenciaTecnica.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegAsistencia.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCalibraciones.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmBuscarNota.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmNotas.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCambiarContrasena.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistrarConceptos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaEgresos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistrarMovimientos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAnularFactura.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmCrearCaja.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroCiudades.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmConfigEmpresa.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmMostrarErrores.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmValidar.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmAcceso.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmConfigConexion.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmIGV.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmMoneda.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmListaUsuarios.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmNiveles.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroClientes.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroFactura.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmPermisos.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistraGasto.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroRecordatorios.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.FrmRegistroUsuarios.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.MDIPrincipal.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.Resources.resources
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.exe.manifest
+C:\Users\Soporte\Desktop\SOFTWARE DE FACTURACION\BalinsaSAC2017\obj\Debug\BalinsaSAC.application

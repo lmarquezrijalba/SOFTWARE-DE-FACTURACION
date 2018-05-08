@@ -1,0 +1,247 @@
+modProcedimientos.SELEC_TODO_TEXTO(txtConcepto)
+
+INNO SETUP
+-------------
+https://www.youtube.com/watch?v=LXc3vYBDACk
+-----------------------------------------------
+
+Private Sub Cmd_Oculta_Click()
+dim Fso As New Scripting.FileSystemObject
+Dim F As Folder
+Set F = Fso.GetFolder("c:\My Documents")
+F.Attributes = Hidden
+End Sub
+
+
+cerrar ventana con scape
+-------------------------
+ If e.KeyCode = 27 Then
+    Me.Close()
+ End If
+
+
+carpeta del sistema
+-------------------------
+Application.StartupPath
+
+CLICK EN CELDA DATAGRIDVIEW
+----------------------------
+        Dim fila, columna As Integer
+
+        If e.ColumnIndex = 2 Then
+            fila = CInt(e.RowIndex)
+            columna = CInt(e.ColumnIndex)
+
+            'MsgBox(("Row : " + e.RowIndex.ToString & "  Col : ") + e.ColumnIndex.ToString)
+
+            With FrmPermisos
+                .lblCodNivelSelec.Text = CStr(dgvNiveles.Item(0, fila).Value)
+                .lblNivel.Text = CStr(dgvNiveles.Item(1, fila).Value)
+
+                .ShowDialog()
+            End With
+        End If
+-------------------------------
+INSTALAR FUENTE
+-------------------------------
+Option Explicit
+
+Private Declare Function AddFontResource Lib "gdi32" _
+ Alias "AddFontResourceA" (ByVal lpFileName As _
+ String) As Long
+ 
+Private Declare Function RemoveFontResource Lib "gdi32" _
+ Alias "RemoveFontResourceA" (ByVal lpFileName As _
+ String) As Long
+
+Dim FontExist As Boolean
+Dim FontTempLoaded As Boolean
+
+Private Sub Form_Load()
+ If IsFont("Almanac MT") Then
+ FontExist = True
+ Else
+ Dim lngRet As Long
+ lngRet = AddFontResource(App.Path & "\almanac.ttf")
+ 
+ If lngRet > 0 Then
+ FontTempLoaded = True
+ Else
+ Label1.Visible = False
+ End If
+ End If
+ 
+ 'la nueva fuente
+ With Label1
+ .Font = "Almanac MT"
+ .FontBold = True
+ .FontSize = 25
+ End With
+
+End Sub
+
+Function IsFont(sF As String) As Boolean
+ Dim i As Integer
+ Screen.MousePointer = vbHourglass
+ For i = 0 To Screen.FontCount - 1
+ If UCase(sF) = UCase(Screen.Fonts(i)) Then
+ IsFont = True
+ Exit For
+ Else
+ IsFont = False
+ End If
+ Next i
+ Screen.MousePointer = vbNormal
+End Function
+
+Private Sub Form_Unload(Cancel As Integer)
+ Dim lngRet As Long
+ If FontTempLoaded Then
+ lngRet = RemoveFontResource(App.Path & "\almanac.ttf")
+ End If
+End Sub
+
+'Private Sub Command1_Click()
+'MsgBox IsFont("Almanac MT")
+'End Sub
+-------------------------------------------
+OTRO EJEMPLO DE FUENTES
+-------------------------------------------
+otro ejemplo de como usar una fuente que no esta instalada en el sistema.necesitas un modulo y un label y tambien modifica el nombre de la fuente y la ruta.
+
+En el Modulo:
+
+Option Explicit
+Private Declare Function GetTempPath Lib "Kernel32" Alias "GetTempPathA" (ByVal nBufferLength As Long, ByVal lpBuffer As String) As Long
+Private Declare Function AddFontResource Lib "GDI32" Alias "AddFontResourceA" (ByVal FontFileName As String) As Long
+Private Declare Function RemoveFontResource Lib "GDI32" Alias "RemoveFontResourceA" (ByVal FontFileName As String) As Long
+Private Declare Function CreateScalableFontResource Lib "GDI32" Alias "CreateScalableFontResourceA" _
+(ByVal fHidden As Long, ByVal lpszResourceFile As String, _
+ByVal lpszFontFile As String, ByVal lpszCurrentPath As String) As Long
+
+Private Function GetTempPathName() As String
+Dim sBuffer As String, lRet As Long
+sBuffer = String$(255, vbNullChar)
+lRet = GetTempPath(255, sBuffer)
+If lRet > 0 Then
+sBuffer = Left$(sBuffer, lRet)
+End If
+GetTempPathName = sBuffer
+End Function
+
+Private Function CheckFile(FileName As String) As Boolean 'check if a file exists
+On Error GoTo ErrH
+CheckFile = False
+If Dir(FileName) <> "" Then
+If (GetAttr(FileName) And vbDirectory) = 0 Then
+CheckFile = True
+
+Kill FileName
+Else
+
+Exit Function
+End If
+Else
+
+Exit Function
+End If
+ErrH:
+End Function
+
+Public Function GetFontName(FileNameTTF As String) As String
+Dim hFile As Integer, Buffer As String, FontName As String, TempName As String, iPos As Integer
+TempName = GetTempPathName & "tempfntinfo.tmp"
+CheckFile (TempName)
+If CreateScalableFontResource(0, TempName, FileNameTTF, vbNullString) Then
+hFile = FreeFile
+Open TempName For Binary Access Read As hFile
+Buffer = Space(LOF(hFile))
+Get hFile, , Buffer
+iPos = InStr(Buffer, "FONTRES:") + 8
+FontName = Mid(Buffer, iPos, InStr(iPos, Buffer, vbNullChar) - iPos)
+Close hFile
+Kill TempName
+End If
+GetFontName = FontName
+End Function
+
+Public Function UseFont(FontFileName As String)
+AddFontResource (FontFileName)
+UseFont = GetFontName(FontFileName)
+End Function
+
+Public Function RemoveFont(FontFileName As String)
+RemoveFontResource (FontFileName)
+End Function
+
+En el Formulario:
+
+Dim fntFileName01 As String
+Dim fntName01 As String
+
+Private Sub Form_Load()
+fntFileName01 = App.Path & "\nombredefuente.ttf"
+fntName01 = UseFont(fntFileName01)
+Label1.Caption = "Canalvisualbasic"
+Label1.FontName = fntName01
+Label1.FontSize = 16
+End Sub
+
+Private Sub Form_Unload(Cancel As Integer)
+RemoveFont (fntFileName01)
+End Sub
+------------------------------------------------------------
+PROBLEMAS CON PUNTO DECIMAL
+------------------------------------------------------------
+Primero, suponiendo que caja de texto es TextBox1, en KeyPress haz lo siguiente, para que sólo se pueda poner un punto como separador decimal. No se permite separador de miles. Independiente de la configuración regional de tu PC. 
+
+Private Sub TextBox1_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) _ 
+Handles TextBox1.KeyPress 
+If e.KeyChar = Convert.ToChar(13) Then 
+Me.Button1.Focus() 
+ElseIf e.KeyChar = Convert.ToChar(8) Then ' se pulsó Retroceso 
+e.Handled = False 
+ElseIf (e.KeyChar = ","c) Then ' no permite la coma 
+e.Handled = True ' Handled = True, no permite; = False, si permite... 
+ElseIf (e.KeyChar = "."c) Then 
+Dim ctrl As TextBox = DirectCast(sender, TextBox) 
+If (ctrl.Text.IndexOf("."c) <> -1) Then ' sólo puede haber una coma 
+e.Handled = True 
+End If 
+ElseIf (e.KeyChar < "0"c Or e.KeyChar > "9"c) Then 
+' desechar los caracteres que no son dígitos 
+e.Handled = True 
+End If 
+End Sub 
+
+Luego, en el LostFocus haz lo siguiente: (Label1 es para expresar el resultado en el formulario) 
+
+Private Sub TextBox1_LostFocus(ByVal sender As Object, ByVal e As System.EventArgs) _ 
+Handles TextBox1.LostFocus 
+Me.Label1.Visible = False 
+Dim objTextBox As TextBox = CType(sender, TextBox) 
+If objTextBox.Text = "" Then 
+Exit Sub 
+Else 
+If IsNumeric(objTextBox.Text) Then 
+' Si es la "," s/Config.Reg. en decimales, constata que ya haya "." y que no 
+' haya aún "," para reemplazar el "." por la "," como separador decimal 
+If laComa = True Then 
+If objTextBox.Text.IndexOf("."c) <> -1 Then 
+If objTextBox.Text.IndexOf(","c) = -1 Then 
+' Reemplaza el "." por la "," para adaptar a la Conf.Reg. actual 
+Dim TestString As String = objTextBox.Text 
+objTextBox.Text = Replace(TestString, "."c, ","c) 
+End If 
+End If 
+End If 
+' Hago el formateo con puntos y comas, s/conf.regional actual 
+Dim a As Decimal = CDec(objTextBox.Text) 
+objTextBox.Text = a.ToString("N2") 
+Else 
+MessageBox.Show("No es una expresión numérica válida.", My.Application.Info.ProductName, _ 
+MessageBoxButtons.OK, MessageBoxIcon.Exclamation) 
+objTextBox.Text = "" : objTextBox.Focus() 
+End If 
+End If 
+End Sub 
